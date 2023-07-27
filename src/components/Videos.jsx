@@ -3,7 +3,6 @@ import { Box, Stack } from '@mui/material';
 import { VideoCard, ChannelCard } from '../components';
 
 const Videos = ({ videos }) => {
-  console.log(videos);
   return (
     <Stack direction="row" flexWrap="wrap" justifyContent="start" gap={2}>
       {videos.map((item, index) => (
@@ -17,5 +16,3 @@ const Videos = ({ videos }) => {
 };
 
 export default Videos;
-
-// 1:07:10
