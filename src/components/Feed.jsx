@@ -34,13 +34,6 @@ const Feed = () => {
           selectedCategory={selectedCategory}
           setSelectedCategory={setSelectedCategory}
         />
-        <Typography
-          className="copyright"
-          variant="body2"
-          sx={{ mt: 1.5, color: '#fff' }}
-        >
-          Copyright {new Date().getFullYear()} Vid254
-        </Typography>
       </Box>
 
       <Box p={2} sx={{ overflowY: 'auto', height: '90vh', flex: 2 }}>
