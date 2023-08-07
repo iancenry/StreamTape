@@ -1,3 +1,3 @@
 # Video Streaming Web Application
 
-- Vid254 is a web application that fetches youtube videos and other information from a YouTube api.
+- StreamTape is a web application that utilizes a YouTube api.
