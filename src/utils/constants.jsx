@@ -12,7 +12,8 @@ import TheaterComedyIcon from '@mui/icons-material/TheaterComedy';
 import FitnessCenterIcon from '@mui/icons-material/FitnessCenter';
 import DeveloperModeIcon from '@mui/icons-material/DeveloperMode';
 
-export const logo = '/src/assets/logo.png';
+export const logo = '../assets/logo.png';
+///src/assets/logo.png
 
 
 export const categories = [
