@@ -5,14 +5,15 @@ import OndemandVideoIcon from '@mui/icons-material/OndemandVideo';
 import SportsEsportsIcon from '@mui/icons-material/SportsEsports';
 import LiveTvIcon from '@mui/icons-material/LiveTv';
 import SchoolIcon from '@mui/icons-material/School';
-import FaceRetouchingNaturalIcon from '@mui/icons-material/FaceRetouchingNatural';
 import CheckroomIcon from '@mui/icons-material/Checkroom';
 import GraphicEqIcon from '@mui/icons-material/GraphicEq';
 import TheaterComedyIcon from '@mui/icons-material/TheaterComedy';
 import FitnessCenterIcon from '@mui/icons-material/FitnessCenter';
 import DeveloperModeIcon from '@mui/icons-material/DeveloperMode';
 
-export const logo = '../assets/logo.png';
+import logo from '../assets/logo.png'
+export {logo}
+// export const logo = '../assets/logo.png';
 ///src/assets/logo.png
 
 
